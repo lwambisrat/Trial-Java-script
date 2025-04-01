@@ -51,7 +51,7 @@ console.log(cleanedText);
 
 //no.8 index of a char
 let word="greeting";
-let middleWord=word.indexOf('t');
+const middleWord=word.indexOf('t');
 console.log(middleWord);
 
 //no.9 delete first 2 char
